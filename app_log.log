@@ -1,0 +1,8 @@
+2023-12-19 21:00:53,376 [WARNING]: Failed login attempt for user: louay
+2023-12-19 21:00:59,889 [WARNING]: Failed login attempt for user: louay
+2023-12-19 21:01:02,377 [WARNING]: Failed login attempt for user: louay
+2023-12-19 21:01:03,300 [WARNING]: Account locked for louay
+2023-12-19 21:01:36,518 [WARNING]: Account locked for louay
+2023-12-19 21:01:51,592 [WARNING]: Failed login attempt for non-existent user: superlouay
+2023-12-19 21:01:56,832 [WARNING]: Failed login attempt for non-existent user: louyay
+2023-12-19 21:02:02,345 [WARNING]: Account locked for louay
